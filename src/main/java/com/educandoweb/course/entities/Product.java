@@ -10,7 +10,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "product")
+@Table(name = "tb_product")
 public class Product implements Serializable{
 	/**
 	 * 
